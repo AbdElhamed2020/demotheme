@@ -2,6 +2,7 @@
     "name": "demo2030/theme",
     "description": "N/A",
     "type": "magento2-theme",
+    "version": "6.2.4",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
